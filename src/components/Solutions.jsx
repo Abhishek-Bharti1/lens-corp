@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from "react";
-import "./solutions.css";
+import React from "react";
+import "../styles/solutions.css";
 
 const Solutions = () => {
   return (

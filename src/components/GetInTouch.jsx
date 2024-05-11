@@ -1,6 +1,6 @@
 import React from 'react'
 import { COUNTRY_IMAGE } from '../constants/constants'
-import "./touch.css"
+import "../styles/touch.css"
 
 const GetInTouch = () => {
   return (

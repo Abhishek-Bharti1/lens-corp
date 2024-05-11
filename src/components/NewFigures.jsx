@@ -1,5 +1,5 @@
 import React from "react";
-import "./figures.css";
+import "../styles/figures.css";
 
 const NewFigures = () => {
   const contentArray = [

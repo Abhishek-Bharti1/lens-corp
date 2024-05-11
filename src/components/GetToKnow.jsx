@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import { MdOutlineKeyboardArrowDown } from "react-icons/md";
 import { PARA1, PARA2, PARA3, PARA4, PARA5, PARA6 } from "../constants/constants";
-import "./getToKnow.css";
+import "../styles/getToKnow.css";
 
 const GetKnow = () => {
   const getKnowArray = [

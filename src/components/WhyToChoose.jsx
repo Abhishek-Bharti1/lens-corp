@@ -1,5 +1,5 @@
 import React from "react";
-import "./why.css";
+import "../styles/why.css";
 import { VscCheck } from "react-icons/vsc";
 
 const WhyToChoose = () => {

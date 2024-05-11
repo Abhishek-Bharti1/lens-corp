@@ -4,7 +4,7 @@
   import { FaFacebook } from "react-icons/fa";
   import { BsInstagram, BsDiscord, BsTwitterX } from "react-icons/bs";
   import { SiLinkedin } from "react-icons/si";
-  import "./footer.css";
+  import "../styles/footer.css";
   const Footer = () => {
     return (
       <div className="footer-container">

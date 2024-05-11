@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import "./slider.css"
+import "../styles/slider.css"
 import { SLIDER_IMG1, SLIDER_IMG2, SLIDER_IMG3, SLIDER_IMG4 } from '../constants/constants';
 
 const Slider = () => {

@@ -1,5 +1,5 @@
 import React from "react";
-import "./ai.css";
+import "../styles/ai.css";
 
 const AiBar = () => {
   return (

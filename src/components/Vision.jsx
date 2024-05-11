@@ -1,5 +1,5 @@
 import React from "react";
-import "./vision.css";
+import "../styles/vision.css";
 import { RiGroupFill } from "react-icons/ri";
 import { MdOutlineDiversity3 } from "react-icons/md";
 import { FaBalanceScale } from "react-icons/fa";

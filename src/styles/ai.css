@@ -52,10 +52,9 @@
   width: 32%;
   margin-left: 10px;
   overflow: hidden;
-  border-radius: 45% 0 0 50%;
+  border-radius: 1000px 0 0 1000px;
   margin-bottom: 50px;
-  /* border-bottom-left-radius: 20px 50%; */
-  /* border: 2px solid red; */
+
 }
 
 .meet-ai {
