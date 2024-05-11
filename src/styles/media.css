@@ -1,0 +1,40 @@
+@media (max-width: 600px) {
+    .slider-slide-animation {
+      animation: none;
+    }
+    .slider-slide {
+      flex-direction: column;
+      align-items: center;
+    }
+    .footer-top-bx {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    }
+  .footer-top-bx1{
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .contact-container{
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  .contact-left {
+    display: flex;
+    padding: 1rem;
+    width: 100%;
+  }
+  .contact-left h2 {
+    width: 100%;
+  }
+  .contact-left form{
+    width: 100%;
+  }
+  .contact-right{
+    width: 100%;
+    padding:0;
+  }
+  }

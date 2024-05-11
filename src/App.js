@@ -1,4 +1,3 @@
-import './App.css';
 import Navbar from './components/Navbar';
 import CoverPage from './components/CoverPage';
 import About from './components/About';
@@ -13,6 +12,7 @@ import Slider from './components/Slider';
 import GetInTouch from './components/GetInTouch';
 import Footer from './components/Footer';
 import Blogs from './components/Blogs';
+import "./styles/media.css";
 
 function App() {
   return (
