@@ -1,23 +1,37 @@
 import logo from './logo.svg';
 import './App.css';
+import Navbar from './components/Navbar';
+import CoverPage from './components/CoverPage';
+import About from './components/About';
+import Services from './components/Services';
+import AiBar from './components/AiBar';
+import Vision from './components/Vision';
+import WhyToChoose from './components/WhyToChoose';
+import Solutions from './components/Solutions';
+import GetKnow from './components/GetToKnow';
+import NewFigures from './components/NewFigures';
+import Slider from './components/Slider';
+import GetInTouch from './components/GetInTouch';
+import Footer from './components/Footer';
+import Blogs from './components/Blogs';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <Navbar/>
+      <CoverPage/>
+      <About/>
+      <Services/>
+      <AiBar/>
+      <WhyToChoose/>
+      <Solutions/>
+      <Vision/>
+      <Blogs/>
+      <Slider/>
+      <NewFigures/>
+      <GetKnow/>
+      <GetInTouch/>
+      <Footer/>
     </div>
   );
 }
